@@ -4,9 +4,10 @@ import Menu from "./MainMenu";
 
 const Diplomes = () => {
   return (
-    <Menu>
-      <Diplaume />;
-    </Menu>
+    <div>
+      <Menu />
+      <Diplaume />
+    </div>
   );
 };
 
