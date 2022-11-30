@@ -1,6 +1,6 @@
 import React from "react";
 import CEI from "../components/CentreInterets";
-import Menu from "./MainMenu";
+import Menu from "../components/MainMenu.jsx";
 
 const CentreInterets = () => {
   return (

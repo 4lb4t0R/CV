@@ -1,6 +1,6 @@
 import React from "react";
 import Diplaume from "../components/Diplomes.jsx";
-import Menu from "./MainMenu";
+import Menu from "../components/MainMenu.jsx";
 
 const Diplomes = () => {
   return (

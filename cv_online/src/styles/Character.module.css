@@ -1,0 +1,25 @@
+.pancarte {
+  background-color: black;
+  height: 50%;
+  width: 30rem;
+  border: 3px solid white;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  position: absolute;
+  top: 20%;
+  left: 45rem;
+  margin-left: 10rem;
+  justify-content: center;
+  font-family: "Pixel";
+}
+
+img {
+  margin-top: 1rem;
+  height: 10rem;
+  width: 11rem;
+  border-radius: 10px;
+  border: 3px solid white;
+}

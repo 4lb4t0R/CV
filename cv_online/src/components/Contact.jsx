@@ -6,7 +6,7 @@ function Contact() {
     <div className={style.pancarte}>
       <a href="https://github.com/4lb4t0R" target="_blank" rel="noreferrer">
         {" "}
-        GITHUB
+        📡GITHUB
       </a>
       <a
         href="https://www.linkedin.com/in/4lb4t0r/"
@@ -14,9 +14,12 @@ function Contact() {
         rel="noreferrer"
       >
         {" "}
-        LINKEDIN
+        📡 LINKEDIN
       </a>
-      <a href="mailto:4lb4t0R@protonmail.com?body=My custom mail body">MAIL</a>
+      <a href="mailto:4lb4t0R@protonmail.com?body=My custom mail body">
+        {" "}
+        📡MAIL
+      </a>
     </div>
   );
 }

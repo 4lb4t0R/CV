@@ -1,8 +1,14 @@
 import React from "react";
-import MainMenu from "../components/MainMenu.jsx";
+import Menu from "../components/MainMenu.jsx";
+import Karakter from "../components/Character.jsx";
 
 const MenuPrincipal = () => {
-  return <MainMenu />;
+  return (
+    <div>
+      <Menu />
+      <Karakter />
+    </div>
+  );
 };
 
 export default MenuPrincipal;

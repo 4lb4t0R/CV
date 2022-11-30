@@ -1,6 +1,6 @@
 import React from "react";
 import Contact from "../components/Contact";
-import Menu from "./MainMenu";
+import Menu from "../components/MainMenu.jsx";
 
 const Contakt = () => {
   return (
