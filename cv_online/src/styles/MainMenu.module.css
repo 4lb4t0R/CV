@@ -1,4 +1,12 @@
 .container {
-    background-color: black;
-  }
-  
+  background-color: black;
+}
+
+.pancarte {
+  background-color: black;
+}
+
+.choix {
+  font-family: "Pixel";
+  color: white;
+}
