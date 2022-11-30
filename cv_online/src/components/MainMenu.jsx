@@ -7,10 +7,11 @@ function menu() {
     <section className={style.container}>
       <div className={style.pancarte}>
         <ul className={style.choix}>
-          <Link to="/diplômes">DIPLÔMES</Link>
-          <a href="Competences.jsx#competences">COMPÉTENCES</a>
-          <a href="CentreInterets.jsx#centresineters">CENTRES D'INTÉRÊTS</a>
-          <a href="Contact.jsx#contact">CONTACTS</a>
+          <Link to="/">MENU</Link>
+          <Link to="/Diplômes">DIPLÔMES</Link>
+          <Link to="/Contact">CONTACT</Link>
+          <Link to="/Compétences">COMPÉTENCES</Link>
+          <Link to="/Centres d'intérêts">CENTRES D'INTÉRÊTS</Link>
         </ul>
       </div>
     </section>

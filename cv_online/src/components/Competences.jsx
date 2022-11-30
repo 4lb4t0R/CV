@@ -1,19 +1,15 @@
 import React from "react";
-import style from "../styles/MainMenu.module.css";
+import style from "../styles/Competences.module.css";
 
-function menu() {
+function Competences() {
   return (
-    <section className={style.container} id="competences">
-      <div className={style.pancarte}>
-        <ul className={style.choix}>
-          <li>Diplômes</li>
-          <li>Compétences</li>
-          <li>Centres d'intérêts</li>
-          <li>Contacts</li>
-        </ul>
-      </div>
-    </section>
+    <div className={style.pancarte}>
+      <p>MAGE</p>
+      <p>THIEF</p>
+      <p>WARRIOR</p>
+      <p>MONK</p>
+    </div>
   );
 }
 
-export default menu;
+export default Competences;
