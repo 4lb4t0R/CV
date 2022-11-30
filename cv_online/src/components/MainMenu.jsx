@@ -9,8 +9,8 @@ function menu() {
         <ul className={style.choix}>
           <Link to="/">MENU</Link>
           <Link to="/Diplômes">DIPLÔMES</Link>
-          <Link to="/Contact">CONTACT</Link>
           <Link to="/Compétences">COMPÉTENCES</Link>
+          <Link to="/Contact">CONTACT</Link>
           <Link to="/Centres d'intérêts">CENTRES D'INTÉRÊTS</Link>
         </ul>
       </div>

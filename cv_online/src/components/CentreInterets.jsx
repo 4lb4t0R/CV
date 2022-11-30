@@ -4,10 +4,10 @@ import style from "../styles/CentreInterets.module.css";
 function CentreInterets() {
   return (
     <div className={style.pancarte}>
-      <p>MAGE</p>
-      <p>THIEF</p>
-      <p>WARRIOR</p>
-      <p>MONK</p>
+      <p>Mangas et/ou romans</p>
+      <p>Musique</p>
+      <p>Jeux-vidéos</p>
+      <p>L'open-source</p>
     </div>
   );
 }

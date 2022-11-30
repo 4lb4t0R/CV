@@ -4,10 +4,19 @@ import style from "../styles/Contact.module.css";
 function Contact() {
   return (
     <div className={style.pancarte}>
-      <p>MAGE</p>
-      <p>THIEF</p>
-      <p>WARRIOR</p>
-      <p>MONK</p>
+      <a href="https://github.com/4lb4t0R" target="_blank" rel="noreferrer">
+        {" "}
+        GITHUB
+      </a>
+      <a
+        href="https://www.linkedin.com/in/4lb4t0r/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        {" "}
+        LINKEDIN
+      </a>
+      <a href="mailto:4lb4t0R@protonmail.com?body=My custom mail body">MAIL</a>
     </div>
   );
 }
