@@ -1,8 +1,8 @@
 import React from "react";
-import Mmenu from "../components/MainMenu.jsx";
+import MainMenu from "../components/MainMenu.jsx";
 
-const MenuPrincipal = () => {
-  return <Mmenu />;
+const MainMenuu = () => {
+  return <MainMenu />;
 };
 
-export default MenuPrincipal;
+export default MainMenuu;
