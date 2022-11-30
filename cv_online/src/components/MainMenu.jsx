@@ -6,10 +6,10 @@ function menu() {
     <section className={style.container}>
       <div className={style.pancarte}>
         <ul className={style.choix}>
-          <li>Diplômes</li>
-          <li>Compétences</li>
-          <li>Centres d'intérêts</li>
-          <li>Contacts</li>
+          <a href="Diplomes.jsx#diplomes">Diplômes</a>
+          <a href="Competences.jsx#competences">Compétences</a>
+          <a href="CentreInterets.jsx#centresineters">Centres d'intérêts</a>
+          <a href="Contact.jsx#contact">Contacts</a>
         </ul>
       </div>
     </section>
