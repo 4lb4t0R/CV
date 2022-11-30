@@ -1,7 +1,7 @@
 .container {
   position: absolute;
   left: 13rem;
-  top: 25%;
+  top: 20%;
 }
 
 .pancarte {
@@ -24,7 +24,7 @@
 a:link {
   text-decoration: none;
   color: white;
-  margin-bottom: 2rem;
+  margin-bottom: 2.2rem;
 }
 
 a:visited {

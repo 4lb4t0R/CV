@@ -12,9 +12,6 @@
   top: 20%;
   left: 20rem;
   margin-left: 10rem;
+  justify-content: center;
   font-family: "Pixel";
-}
-
-p {
-  margin-top: 2rem;
 }
