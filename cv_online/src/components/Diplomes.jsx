@@ -1,7 +1,7 @@
 import React from "react";
-import style from "../styles/MainMenu.module.css";
+import style from "../styles/Diplomes.module.css";
 
-function diplomes() {
+function Diplomes() {
   return (
     <section className={style.container} id="diplomes">
       <div className={style.pancarte}>
@@ -16,4 +16,4 @@ function diplomes() {
   );
 }
 
-export default diplomes;
+export default Diplomes;
