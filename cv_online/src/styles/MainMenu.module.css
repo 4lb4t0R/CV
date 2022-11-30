@@ -4,9 +4,17 @@
 
 .pancarte {
   background-color: black;
+  height: 50%;
+  width: 10rem;
+  border: 3px solid white;
+  border-radius: 10px;
 }
 
 .choix {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
   font-family: "Pixel";
+  text-decoration: none;
   color: white;
 }

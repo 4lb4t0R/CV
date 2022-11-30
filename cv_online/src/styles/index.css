@@ -8,11 +8,11 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+  font-family: Pixel, source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
 @font-face {
-  font-family: Pixel;
+  font-family: "Pixel";
   src: "./assets/PixeloidSans-nR3g1.ttf";
 }
