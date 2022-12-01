@@ -5,7 +5,7 @@ function Diplomes() {
   return (
     <div className={style.pancarte}>
       <p>👨‍🎓2022 - Développeur web fullstack, orienté JS (BAC+2)</p>
-      <p>2020-2021 - INSPE de Mérignac (BAC+4)</p>
+      <p>👨‍🎓2020-2021 - INSPE de Mérignac (BAC+4)</p>
       <p>
         👨‍🎓 2017-2020 - Licence de lettres moderne + DEUG Histoire de l’Art
         (BAC+2 et +3)
