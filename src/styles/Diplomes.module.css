@@ -1,6 +1,5 @@
 .pancarte {
   background-color: black;
-  height: 50%;
   width: 50rem;
   border: 3px solid white;
   border-radius: 10px;
@@ -8,9 +7,7 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  position: absolute;
-  top: 20%;
-  left: 20rem;
+  margin-right: 13rem;
   margin-left: 10rem;
   justify-content: center;
   font-family: "Pixel";
